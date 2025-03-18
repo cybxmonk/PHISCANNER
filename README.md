@@ -32,7 +32,7 @@ A comprehensive tool for scanning URLs to identify potential phishing threats us
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/phishing-link-scanner.git
+   git clone https://github.com/cybxmonk/phishing-link-scanner.git
    cd phishing-link-scanner
    ```
 
@@ -42,7 +42,7 @@ A comprehensive tool for scanning URLs to identify potential phishing threats us
    ```
 
 3. (Optional) Obtain API keys:
-   - [VirusTotal API Key](https://www.virustotal.com/gui/join-us)
+   - [VirusTotal API Key](https://www.virustotal.com/gui/home/url)
    - [Google Safe Browsing API Key](https://developers.google.com/safe-browsing/v4/get-started)
 
 ## Usage
