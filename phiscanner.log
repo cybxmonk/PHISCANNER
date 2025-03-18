@@ -1,0 +1,246 @@
+2025-03-19 00:26:47,726 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:26:48,203 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:26:48,218 - phiscanner.main - ERROR - Error starting GUI: 'PhishingApp' object has no attribute 'status_var'
+2025-03-19 00:27:13,217 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:27:13,276 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:28:09,130 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:28:09,175 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:28:27,581 - phiscanner - INFO - Scanning: https://www.google.com/
+2025-03-19 00:28:27,583 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:28:27,583 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:28:27,587 - phiscanner.database - INFO - Saved scan result for https://www.google.com/ with ID 1
+2025-03-19 00:29:39,916 - phiscanner - INFO - Scanning: http://0000000000000000000000000.findyourjacket.com
+2025-03-19 00:29:39,917 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:29:39,917 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:29:39,921 - phiscanner.database - INFO - Saved scan result for http://0000000000000000000000000.findyourjacket.com with ID 2
+2025-03-19 00:29:59,549 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:29:59,550 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:29:59,550 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:29:59,555 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 3
+2025-03-19 00:30:00,797 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:30:00,797 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:30:00,798 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:30:00,801 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 4
+2025-03-19 00:30:01,005 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:30:01,006 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:30:01,006 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:30:01,010 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 5
+2025-03-19 00:30:01,204 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:30:01,204 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:30:01,204 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:30:01,208 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 6
+2025-03-19 00:30:01,381 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:30:01,382 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:30:01,382 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:30:01,386 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 7
+2025-03-19 00:33:33,038 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:33:33,104 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:33:33,122 - phiscanner.main - ERROR - Error starting GUI: Invalid state name tag-low
+2025-03-19 00:34:00,910 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:34:00,959 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:34:08,730 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:34:08,731 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:34:08,731 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:34:08,736 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 8
+2025-03-19 00:37:17,710 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:37:17,810 - phiscanner.ui - INFO - Set custom application icon
+2025-03-19 00:37:17,811 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:37:26,139 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:37:26,140 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:37:26,140 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:37:26,145 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 9
+2025-03-19 00:37:31,705 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:37:31,706 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:37:31,706 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:37:31,711 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 10
+2025-03-19 00:37:32,352 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:37:32,353 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:37:32,353 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:37:32,358 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 11
+2025-03-19 00:37:32,548 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:37:32,548 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:37:32,549 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:37:32,555 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 12
+2025-03-19 00:37:32,777 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:37:32,778 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:37:32,778 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:37:32,784 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 13
+2025-03-19 00:37:33,668 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:37:33,668 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:37:33,669 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:37:33,675 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 14
+2025-03-19 00:37:33,876 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:37:33,877 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:37:33,877 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:37:33,883 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 15
+2025-03-19 00:37:34,101 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:37:34,102 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:37:34,102 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:37:34,108 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 16
+2025-03-19 00:39:16,422 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:39:16,476 - phiscanner.ui - INFO - Set custom application icon
+2025-03-19 00:39:16,478 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:39:22,339 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:39:22,339 - phiscanner - INFO - Suspicious pattern: numeric pattern in hostname: 0001.353527440.workers.dev
+2025-03-19 00:39:22,339 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:39:22,340 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:39:22,345 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 17
+2025-03-19 00:39:40,741 - phiscanner - INFO - Scanning: http://www.google.com
+2025-03-19 00:39:40,743 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:39:40,743 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:39:40,747 - phiscanner.database - INFO - Saved scan result for http://www.google.com with ID 18
+2025-03-19 00:39:41,605 - phiscanner - INFO - Scanning: http://www.google.com
+2025-03-19 00:39:41,605 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:39:41,605 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:39:41,609 - phiscanner.database - INFO - Saved scan result for http://www.google.com with ID 19
+2025-03-19 00:39:41,781 - phiscanner - INFO - Scanning: http://www.google.com
+2025-03-19 00:39:41,782 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:39:41,782 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:39:41,786 - phiscanner.database - INFO - Saved scan result for http://www.google.com with ID 20
+2025-03-19 00:39:41,981 - phiscanner - INFO - Scanning: http://www.google.com
+2025-03-19 00:39:41,981 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:39:41,982 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:39:41,986 - phiscanner.database - INFO - Saved scan result for http://www.google.com with ID 21
+2025-03-19 00:39:42,141 - phiscanner - INFO - Scanning: http://www.google.com
+2025-03-19 00:39:42,141 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:39:42,141 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:39:42,146 - phiscanner.database - INFO - Saved scan result for http://www.google.com with ID 22
+2025-03-19 00:40:06,387 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:40:06,387 - phiscanner - INFO - Suspicious pattern: numeric pattern in hostname: 0001.353527440.workers.dev
+2025-03-19 00:40:06,387 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:40:06,388 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:40:06,392 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 23
+2025-03-19 00:40:18,380 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:40:18,380 - phiscanner - INFO - Suspicious pattern: numeric pattern in hostname: 0001.353527440.workers.dev
+2025-03-19 00:40:18,380 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:40:18,380 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:40:18,384 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 24
+2025-03-19 00:40:49,308 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:40:49,308 - phiscanner - INFO - Suspicious pattern: numeric pattern in hostname: 0001.353527440.workers.dev
+2025-03-19 00:40:49,309 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:40:49,309 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:40:49,313 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 25
+2025-03-19 00:41:02,229 - phiscanner - INFO - Scanning: http://000l34e.wcomhost.com/?fbclid=IwAR0bTLKRzZoi5OU7l2Jy29nIPaepITsvtkgGMXlTLwh8x-wn6Yj6mmFqRRU
+2025-03-19 00:41:02,230 - phiscanner - INFO - Suspicious domain pattern: t\.co in 000l34e.wcomhost.com
+2025-03-19 00:41:02,230 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:41:02,230 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:41:02,234 - phiscanner.database - INFO - Saved scan result for http://000l34e.wcomhost.com/?fbclid=IwAR0bTLKRzZoi5OU7l2Jy29nIPaepITsvtkgGMXlTLwh8x-wn6Yj6mmFqRRU with ID 26
+2025-03-19 00:41:05,788 - phiscanner - INFO - Scanning: http://000l34e.wcomhost.com/?fbclid=IwAR0bTLKRzZoi5OU7l2Jy29nIPaepITsvtkgGMXlTLwh8x-wn6Yj6mmFqRRU
+2025-03-19 00:41:05,789 - phiscanner - INFO - Suspicious domain pattern: t\.co in 000l34e.wcomhost.com
+2025-03-19 00:41:05,789 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:41:05,789 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:41:05,794 - phiscanner.database - INFO - Saved scan result for http://000l34e.wcomhost.com/?fbclid=IwAR0bTLKRzZoi5OU7l2Jy29nIPaepITsvtkgGMXlTLwh8x-wn6Yj6mmFqRRU with ID 27
+2025-03-19 00:43:07,285 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:43:07,338 - phiscanner.ui - INFO - Set custom application icon
+2025-03-19 00:43:07,340 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:43:12,363 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:43:12,364 - phiscanner - INFO - Suspicious pattern: numeric pattern in hostname: 0001.353527440.workers.dev
+2025-03-19 00:43:12,364 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:43:12,364 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:43:12,369 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 28
+2025-03-19 00:48:36,926 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:48:37,012 - phiscanner.ui - INFO - Set custom application icon
+2025-03-19 00:48:37,013 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:48:45,594 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:48:45,595 - phiscanner - INFO - Suspicious pattern: numeric pattern in hostname: 0001.353527440.workers.dev
+2025-03-19 00:48:45,596 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:48:45,596 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:48:45,597 - phiscanner - INFO - Fetching VirusTotal web information for: http://0001.353527440.workers.dev/
+2025-03-19 00:48:48,499 - phiscanner - INFO - Successfully fetched VirusTotal web information for: http://0001.353527440.workers.dev/
+2025-03-19 00:48:48,511 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 29
+2025-03-19 00:50:05,866 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:50:05,949 - phiscanner.ui - INFO - Set custom application icon
+2025-03-19 00:50:05,950 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:50:33,982 - phiscanner - INFO - Scanning: https://www.virustotal.com/gui/home/url
+2025-03-19 00:50:33,984 - phiscanner - INFO - Suspicious pattern: random alphanumeric in hostname: www.virustotal.com
+2025-03-19 00:50:33,984 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:50:33,984 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:50:33,985 - phiscanner - INFO - Fetching VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:50:36,744 - phiscanner - INFO - Successfully fetched VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:50:36,755 - phiscanner.database - INFO - Saved scan result for https://www.virustotal.com/gui/home/url with ID 30
+2025-03-19 00:51:46,069 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:51:46,148 - phiscanner.ui - INFO - Set custom application icon
+2025-03-19 00:51:46,150 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:51:50,006 - phiscanner - INFO - Scanning: https://www.virustotal.com/gui/home/url
+2025-03-19 00:51:50,008 - phiscanner - INFO - Suspicious pattern: random alphanumeric in hostname: www.virustotal.com
+2025-03-19 00:51:50,009 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:51:50,009 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:51:50,010 - phiscanner - INFO - Fetching VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:51:52,805 - phiscanner - INFO - Successfully fetched VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:51:52,815 - phiscanner.database - INFO - Saved scan result for https://www.virustotal.com/gui/home/url with ID 31
+2025-03-19 00:52:18,511 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:52:18,584 - phiscanner.ui - INFO - Set custom application icon
+2025-03-19 00:52:18,586 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:52:29,988 - phiscanner - INFO - Scanning: https://www.virustotal.com/gui/home/url
+2025-03-19 00:52:29,991 - phiscanner - INFO - Suspicious pattern: random alphanumeric in hostname: www.virustotal.com
+2025-03-19 00:52:29,992 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:52:29,993 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:52:29,994 - phiscanner - INFO - Fetching VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:52:32,807 - phiscanner - INFO - Successfully fetched VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:52:32,820 - phiscanner.database - INFO - Saved scan result for https://www.virustotal.com/gui/home/url with ID 32
+2025-03-19 00:53:39,315 - phiscanner - INFO - Scanning: http://google.com
+2025-03-19 00:53:39,319 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:53:39,320 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:53:39,321 - phiscanner - INFO - Fetching VirusTotal web information for: http://google.com
+2025-03-19 00:53:42,097 - phiscanner - INFO - Successfully fetched VirusTotal web information for: http://google.com
+2025-03-19 00:53:42,107 - phiscanner.database - INFO - Saved scan result for http://google.com with ID 33
+2025-03-19 00:54:20,823 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:54:20,963 - phiscanner.ui - INFO - Set custom application icon
+2025-03-19 00:54:20,965 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:54:44,487 - phiscanner - INFO - Scanning: https://www.virustotal.com/gui/home/url
+2025-03-19 00:54:44,488 - phiscanner - INFO - Domain www.virustotal.com is a trusted security service, skipping heuristic check
+2025-03-19 00:54:44,489 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:54:44,490 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:54:44,490 - phiscanner - INFO - Fetching VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:54:47,283 - phiscanner - INFO - Successfully fetched VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:54:47,295 - phiscanner.database - INFO - Saved scan result for https://www.virustotal.com/gui/home/url with ID 34
+2025-03-19 00:54:53,421 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:54:53,423 - phiscanner - INFO - Suspicious pattern: numeric pattern in hostname: 0001.353527440.workers.dev
+2025-03-19 00:54:53,424 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:54:53,425 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:54:53,427 - phiscanner - INFO - Fetching VirusTotal web information for: http://0001.353527440.workers.dev/
+2025-03-19 00:54:56,183 - phiscanner - INFO - Successfully fetched VirusTotal web information for: http://0001.353527440.workers.dev/
+2025-03-19 00:54:56,196 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 35
+2025-03-19 00:58:44,512 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 00:58:44,588 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 00:58:52,433 - phiscanner - INFO - Scanning: https://www.virustotal.com/gui/home/url
+2025-03-19 00:58:52,434 - phiscanner - INFO - Domain www.virustotal.com is a trusted security service, skipping heuristic check
+2025-03-19 00:58:52,435 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:58:52,436 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:58:52,436 - phiscanner - INFO - Fetching VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:58:55,289 - phiscanner - INFO - Successfully fetched VirusTotal web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:58:55,291 - phiscanner - INFO - Fetching Google Safe Browsing web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:58:56,941 - phiscanner - INFO - Successfully fetched Google Safe Browsing web information for: https://www.virustotal.com/gui/home/url
+2025-03-19 00:58:56,953 - phiscanner.database - INFO - Saved scan result for https://www.virustotal.com/gui/home/url with ID 36
+2025-03-19 00:59:17,133 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 00:59:17,135 - phiscanner - INFO - Suspicious pattern: numeric pattern in hostname: 0001.353527440.workers.dev
+2025-03-19 00:59:17,136 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 00:59:17,137 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 00:59:17,138 - phiscanner - INFO - Fetching VirusTotal web information for: http://0001.353527440.workers.dev/
+2025-03-19 00:59:20,711 - phiscanner - INFO - Successfully fetched VirusTotal web information for: http://0001.353527440.workers.dev/
+2025-03-19 00:59:20,713 - phiscanner - INFO - Fetching Google Safe Browsing web information for: http://0001.353527440.workers.dev/
+2025-03-19 00:59:22,238 - phiscanner - INFO - Successfully fetched Google Safe Browsing web information for: http://0001.353527440.workers.dev/
+2025-03-19 00:59:22,253 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 37
+2025-03-19 01:02:10,031 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 01:02:10,110 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 01:02:17,130 - phiscanner - INFO - Scanning: http://0001.353527440.workers.dev/
+2025-03-19 01:02:17,132 - phiscanner - INFO - Suspicious pattern: numeric pattern in hostname: 0001.353527440.workers.dev
+2025-03-19 01:02:17,133 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 01:02:17,134 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 01:02:17,136 - phiscanner - INFO - Fetching VirusTotal web information for: http://0001.353527440.workers.dev/
+2025-03-19 01:02:19,995 - phiscanner - INFO - Successfully fetched VirusTotal web information for: http://0001.353527440.workers.dev/
+2025-03-19 01:02:19,996 - phiscanner - INFO - Fetching Google Safe Browsing web information for: http://0001.353527440.workers.dev/
+2025-03-19 01:02:21,516 - phiscanner - INFO - Successfully fetched Google Safe Browsing web information for: http://0001.353527440.workers.dev/
+2025-03-19 01:02:21,529 - phiscanner.database - INFO - Saved scan result for http://0001.353527440.workers.dev/ with ID 38
+2025-03-19 01:04:02,654 - phiscanner.main - INFO - Starting GUI mode
+2025-03-19 01:04:02,801 - phiscanner.ui - INFO - Set custom application icon
+2025-03-19 01:04:02,802 - phiscanner.database - INFO - Database initialized at phishing_scanner.db
+2025-03-19 01:04:12,480 - phiscanner - INFO - Scanning: https://www.google.com/
+2025-03-19 01:04:12,481 - phiscanner - INFO - Domain www.google.com is a trusted security service, skipping heuristic check
+2025-03-19 01:04:12,481 - phiscanner - WARNING - VirusTotal API key not provided
+2025-03-19 01:04:12,482 - phiscanner - WARNING - Google Safe Browsing API key not provided
+2025-03-19 01:04:12,482 - phiscanner - INFO - Fetching VirusTotal web information for: https://www.google.com/
+2025-03-19 01:04:15,319 - phiscanner - INFO - Successfully fetched VirusTotal web information for: https://www.google.com/
+2025-03-19 01:04:15,320 - phiscanner - INFO - Fetching Google Safe Browsing web information for: https://www.google.com/
+2025-03-19 01:04:17,011 - phiscanner - INFO - Successfully fetched Google Safe Browsing web information for: https://www.google.com/
+2025-03-19 01:04:17,023 - phiscanner.database - INFO - Saved scan result for https://www.google.com/ with ID 39
