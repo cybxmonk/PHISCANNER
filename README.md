@@ -16,7 +16,9 @@ A comprehensive tool for scanning URLs to identify potential phishing threats us
 
 ## Screenshots
 
-(Add screenshots of your application here)
+![image](https://github.com/user-attachments/assets/b8b25e3e-234e-4f1d-8198-98337eb0360e)
+![image](https://github.com/user-attachments/assets/c43b4b61-e1e6-4792-92c8-06b74b206386)
+
 
 ## Installation
 
